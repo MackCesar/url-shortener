@@ -1,0 +1,20 @@
+# Binaries
+/url-shortener
+
+# Build and cache directories
+/vendor/
+/.cache/
+/.idea/
+/.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker
+*.docker
+**/.dockerignore
+**/Dockerfile
